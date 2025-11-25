@@ -1,7 +1,7 @@
 # cse4001-multi-thread-synchronization
 
 
-Instructions to run:
+# Instructions to run:
 
 
 Have the producer_consumer file installed and in your prompt, have the folder set as your directory.
