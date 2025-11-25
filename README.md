@@ -4,13 +4,13 @@
 # Instructions to run:
 
 
-Have the producer_consumer folder installed and from your docker or unix environent, have the folder set as your directory.
+Have the producer_consumer folder installed and within docker or your unix environent, navigate into the folder's directory.
 
 
-Run "make clean" to clean the file, then run "make" to compile the cse4001_sync.cpp file
+Run "make clean" to clean the file, then run "make" to compile the cse4001_sync.cpp file.
 
 
-Run "./cse4001_sync.cpp 1" to run problem 1, "./cse4001.cpp 2" for problem 2, and so on
+Run "./cse4001_sync.cpp 1" to run problem 1, "./cse4001.cpp 2" for problem 2, and so on.
 
 
 Screenshot of program running for each problem:
