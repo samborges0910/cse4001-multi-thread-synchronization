@@ -4,7 +4,7 @@
 # Instructions to run:
 
 
-Have the producer_consumer file installed and in your prompt, have the folder set as your directory.
+Have the producer_consumer folder installed and from your docker or unix environent, have the folder set as your directory.
 
 
 Run "make clean" to clean the file, then run "make" to compile the cse4001_sync.cpp file
